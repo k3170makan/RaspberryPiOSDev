@@ -1,0 +1,6 @@
+1 - create uart.c uart.h, split off uart definitions from kernel
+2 - memory management
+	- atags management objects 
+	- 
+3 - add some debug printing to the kernel when it starts up
+		- show register states when you can
